@@ -1,0 +1,21 @@
+.login {
+	width: 150px;
+	position: relative;
+}
+
+.login li {
+	width: 100%;
+	height: 40px;
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 1px black solid;
+	font-size: 30px;
+	line-height: 40px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.login li:hover {
+	color: blue;
+}
