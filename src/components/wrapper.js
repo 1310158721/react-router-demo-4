@@ -5,6 +5,7 @@ import Nav from './nav'
 import Header from './header'
 
 export default class Wrapper extends React.Component {
+	
 	render () {
 		return (
 			<React.Fragment>
